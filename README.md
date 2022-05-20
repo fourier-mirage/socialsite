@@ -22,3 +22,4 @@ Let's Build the Website for Fitness Club.
   3 & 4 - Kathu
   5 & 6 - Kaja
   
+**Do your codes on your relevant branches and push them to github**
